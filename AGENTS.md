@@ -49,7 +49,7 @@
 - 專案說明：`README.md`
 - Agent 規則：`AGENTS.md`
 - 忽略規則：`.gitignore`
-- 網頁入口：待建立
+- 網頁入口：`index.html`（目前為專案狀態頁）
 - Firebase 設定：待建立；不得把 Admin 憑證加入 repo
 - GitHub Pages：`https://piliwu01.github.io/piliwu-teach/`（已啟用；網站入口待建立）
 

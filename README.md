@@ -21,4 +21,4 @@
 
 GitHub Pages 已啟用：<https://piliwu01.github.io/piliwu-teach/>
 
-網站入口將在第一個工具完成後補上。
+目前首頁是專案狀態頁；第一個工具完成後再替換或擴充。
