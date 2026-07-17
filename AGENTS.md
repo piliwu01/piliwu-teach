@@ -51,7 +51,7 @@
 - 忽略規則：`.gitignore`
 - 網頁入口：待建立
 - Firebase 設定：待建立；不得把 Admin 憑證加入 repo
-- GitHub Pages：待啟用
+- GitHub Pages：`https://piliwu01.github.io/piliwu-teach/`（已啟用；網站入口待建立）
 
 ## 不要做
 
@@ -61,4 +61,3 @@
 - 不要儲存學生姓名；正式資料只使用座號與班級代號。
 - Python 工具一律製作成 `tkinter GUI`，不要用命令列互動。
 - 一律使用繁體中文；中文與英文／數字之間加半形空格。
-

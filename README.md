@@ -19,5 +19,5 @@
 
 ## 部署
 
-預計使用 GitHub Pages；網站入口與部署設定將在第一個工具完成後補上。
-
+GitHub Pages 已啟用：<https://piliwu01.github.io/piliwu-teach/>  
+網站入口將在第一個工具完成後補上。
